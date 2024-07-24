@@ -1,0 +1,14 @@
+Stock-ID,Timestamp,Stock Price,Prediction
+ASH,26-09-2023,102.96,Original
+ASH,27-09-2023,102.65,Original
+ASH,28-09-2023,103.27,Original
+ASH,29-09-2023,103.27,Original
+ASH,30-09-2023,104.41,Original
+ASH,01-10-2023,104.62,Original
+ASH,02-10-2023,105.03,Original
+ASH,03-10-2023,105.03,Original
+ASH,04-10-2023,106.5,Original
+ASH,05-10-2023,105.76,Original
+ASH,06-10-2023,105.76,Predicted
+ASH,07-10-2023,105.76,Predicted
+ASH,08-10-2023,105.76,Predicted

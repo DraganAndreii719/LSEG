@@ -1,0 +1,14 @@
+Stock-ID,Timestamp,Stock Price,Prediction
+NMR,25-11-2023,7.48,Original
+NMR,26-11-2023,7.44,Original
+NMR,27-11-2023,7.38,Original
+NMR,28-11-2023,7.46,Original
+NMR,29-11-2023,7.52,Original
+NMR,30-11-2023,7.47,Original
+NMR,01-12-2023,7.54,Original
+NMR,02-12-2023,7.52,Original
+NMR,03-12-2023,7.49,Original
+NMR,04-12-2023,7.46,Original
+NMR,05-12-2023,7.52,Predicted
+NMR,06-12-2023,7.49,Predicted
+NMR,07-12-2023,7.4975000000000005,Predicted
